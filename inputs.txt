@@ -1,8 +1,8 @@
 deposit
-1000
+100000
 withdraw
-120.5
+12.34
 withdraw
-50.00
+49.00
 deposit
-10.01
+7.01
